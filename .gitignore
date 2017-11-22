@@ -1,0 +1,8 @@
+.DS_STORE
+
+### Swift.SwiftPackageManager Stack ###
+Packages
+.build
+xcuserdata
+*.xcodeproj
+
